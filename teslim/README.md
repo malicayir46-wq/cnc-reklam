@@ -1,21 +1,16 @@
-# Bağlama teknesi Instagram videosu
+# Bağlama teknesi Reels — 8 numaralı çekim eklenmiş sürüm
 
-ATÖLYE.rar içindeki görüntüler 1–5 sırasıyla kullanıldı. Video 26 saniye, 1080 × 1920, 30 fps; MP4 / H.264 biçimindedir.
+Son hazırlanan 45,4 saniyelik kurguya, 8.mp4 dosyasının 3–15. saniyeleri eklendi. Yeni çekim CNC görüntülerinden sonra, ürün sonuç görüntülerinden önce yer alır. Toplam süre 57,2 saniye; 1080 × 1920, 30 fps, MP4/H.264.
 
-- **Baglama_Teknesi_Reels_Muzikli.mp4:** Özgün enstrümantal ritim içerir. Güncel trend şarkı olduğu iddia edilmez.
-- **Baglama_Teknesi_Reels_Muziksiz.mp4:** Instagram üzerinden seçilecek müzik için sessiz sürüm.
-- **Paylasim_Metni.txt:** Önerilen açıklama ve etiketler.
+- **Baglama_Reels_8_Ekli_Guclu_Muzik.mp4:** Yeni, daha güçlü 128 BPM özgün ritim. Belirgin bas ve davul; ürün gösteriminin orijinal sesi korunur, bu bölümde ritim kısılır.
+- **Baglama_Reels_8_Ekli_Muziksiz.mp4:** Tamamen sessiz sürüm.
+- **8_Ekli_Video_Bilgisi.txt:** Kaynaklar ve güncelleme ayrıntıları.
+- **Paylasim_Metni.txt:** Paylaşım metni ve etiketler.
 
-## Bilgisayara indirme
+Gönderilen WhatsApp 15.00.58 dosyası 32 MiB aktarım sınırını aştığı için açılamadı. Bunun yerine çalışma alanında bulunan son 45,4 saniyelik kurgu kaynakları kullanıldı.
 
-GitHub'da dosyayı açın ve “Download raw file” (ham dosyayı indir) düğmesini kullanın. Dosya önizlemesi görünmese de indirme düğmesi kullanılabilir.
+## İndirme
 
-Alternatif: Bu dalın ana sayfasında yeşil “Code” menüsünden “Download ZIP” seçeneğini kullanın. ZIP'i açtıktan sonra videolar `teslim` klasöründedir.
+Bu dalın sayfasında Code → Download ZIP seçin. Videolar ZIP'in teslim klasöründedir. Tek dosya için GitHub dosya sayfasında Download raw file düğmesini kullanabilirsiniz.
 
-## Güncel video: ek atölye çekimi
-
-- **Baglama_Reels_Guncel_Muzikli.mp4:** Yaklaşık 45,4 saniye. Yeni yaklaşık 20 saniyelik çekim, sonuç görüntülerinden sonra ve sipariş çağrısından önce eklendi. Özgün ritim uzatıldı; yeni çekimin orijinal sesi korunup bu bölümde ritim kısıldı.
-- **Baglama_Reels_Guncel_Muziksiz.mp4:** Güncel kurgunun tamamen sessiz sürümü.
-- **Guncel_Video_Bilgisi.txt:** Güncellemenin ayrıntıları.
-
-Önceki 26 saniyelik dosyalar da bu klasörde tutuldu.
+Önceki sürümler teslim/baglama-reels-20261012 dalında korunmuştur.
