@@ -1,16 +1,13 @@
-# Bağlama teknesi Reels — 8 numaralı çekim eklenmiş sürüm
+# Instagram için 1080 × 1920 çıktı
 
-Son hazırlanan 45,4 saniyelik kurguya, 8.mp4 dosyasının 3–15. saniyeleri eklendi. Yeni çekim CNC görüntülerinden sonra, ürün sonuç görüntülerinden önce yer alır. Toplam süre 57,2 saniye; 1080 × 1920, 30 fps, MP4/H.264.
+Baglama_Instagram_1080x1920.mp4: 57,17 saniye, 9:16, 30 fps; MP4/H.264 High Level 4.1; AAC stereo 48 kHz. Video bit hızı yaklaşık 8 Mbps, boyut yaklaşık 55 MB. Tüm dosyanın video ve ses çözümü hatasız tamamlandı.
 
-- **Baglama_Reels_8_Ekli_Guclu_Muzik.mp4:** Yeni, daha güçlü 128 BPM özgün ritim. Belirgin bas ve davul; ürün gösteriminin orijinal sesi korunur, bu bölümde ritim kısılır.
-- **Baglama_Reels_8_Ekli_Muziksiz.mp4:** Tamamen sessiz sürüm.
-- **8_Ekli_Video_Bilgisi.txt:** Kaynaklar ve güncelleme ayrıntıları.
-- **Paylasim_Metni.txt:** Paylaşım metni ve etiketler.
+Gönderilen WhatsApp kopyası 480 × 854 çözünürlüğündeydi. Yeni dosya bunun yerine çalışma alanındaki son 1080 × 1920 kurgudan üretildi. Kurgu ve güçlü ritim korundu.
 
-Gönderilen WhatsApp 15.00.58 dosyası 32 MiB aktarım sınırını aştığı için açılamadı. Bunun yerine çalışma alanında bulunan son 45,4 saniyelik kurgu kaynakları kullanıldı.
+## İndirme ve yükleme
 
-## İndirme
+Code → Download ZIP ile indirin. ZIP içindeki teslim/Baglama_Instagram_1080x1920.mp4 dosyasını Instagram'a yeni bir Reels olarak yükleyin.
 
-Bu dalın sayfasında Code → Download ZIP seçin. Videolar ZIP'in teslim klasöründedir. Tek dosya için GitHub dosya sayfasında Download raw file düğmesini kullanabilirsiniz.
+Telefona aktarırken dosyanın küçültülmesini önleyin: USB veya dosyayı değiştirmeyen bulut depolama kullanın. WhatsApp kullanacaksanız video yerine BELGE olarak gönderin. Instagram'da “En yüksek kalitede yükle” seçeneğini açın.
 
-Önceki sürümler teslim/baglama-reels-20261012 dalında korunmuştur.
+Instagram'da öne çıkarma kabulü burada test edilemez. Ekran görüntüsündeki düşük çözünürlük nedeni ele alındı; kaynak çekimlerde olmayan ayrıntı geri getirilemez. Önceki sürümler eski teslim dallarında korunur.

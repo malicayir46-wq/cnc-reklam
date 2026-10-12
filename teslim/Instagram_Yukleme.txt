@@ -1,0 +1,19 @@
+INSTAGRAM İÇİN HAZIRLANAN DOSYA
+
+Dosya: Baglama_Instagram_1080x1920.mp4
+57,17 saniye; 1080 × 1920; 9:16; 30 fps.
+MP4, H.264 High / Level 4.1, yuv420p, AAC stereo 48 kHz.
+Hedef video bit hızı: 8 Mbps. Web oynatma için faststart.
+
+Gönderilen WhatsApp kopyası 480 × 854 çözünürlüğündeydi. Yeni çıktı, bu küçük kopyadan büyütülmedi; çalışma alanındaki son 1080 × 1920 kurgudan oluşturuldu.
+Kaynak çekimlerde bulunmayan ayrıntılar bu işlemle yeniden oluşturulamaz.
+
+YÜKLEME
+1. GitHub ZIP'ini indirip açın.
+2. teslim klasöründeki Baglama_Instagram_1080x1920.mp4 dosyasını kullanın.
+3. Telefona aktarırken USB veya dosyayı değiştirmeyen bir bulut depolama yöntemi kullanın. WhatsApp kullanılacaksa video olarak değil BELGE olarak gönderin.
+4. Instagram'da “En yüksek kalitede yükle” seçeneğini açın.
+5. Bu dosyayı yeni bir Reels olarak yükleyin. Mevcut düşük çözünürlüklü Reels'in videosunu bu dosyayla değiştirmek mümkün değildir.
+
+YEREL DOĞRULAMA
+Video ve ses teknik kontrolleri yerel olarak yapılır. Instagram reklam incelemesi veya öne çıkarma kabulü burada test edilemez. Düşük çözünürlük dışındaki hesap, içerik veya müzik nedenleri ayrıca değerlendirilir.
